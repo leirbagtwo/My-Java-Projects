@@ -1,0 +1,10 @@
+Enter times you want to roll a dice: 8
+Roll 1 Computer won
+Roll 2 Draw
+Roll 3 Computer won
+Roll 4 Computer won
+Roll 5 Computer won
+Roll 6 Computer won
+Roll 7 User won
+Roll 8 Computer won
+Computer was the winner 6 / 8 turns
